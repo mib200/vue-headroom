@@ -1,5 +1,5 @@
 {
-  "name": "vue-headroom-runtime-only",
+  "name": "vue-headroom",
   "version": "0.3.0",
   "description": "Headroom component for Vuejs 2.0 runtime-only build",
   "main": "./src/index.vue",
